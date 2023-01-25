@@ -1,6 +1,6 @@
 # urun-ekleme
 
-> A Vue.js project
+> A Vue.js project. Up to 10 new products can be added in this project. The price can be determined. Quantity can be determined. The total price is calculated according to the number of pieces and prices.
 
 ## Build Setup
 
